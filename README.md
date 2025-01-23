@@ -64,7 +64,7 @@ Copy the `.UF2` file that you obtained for this project to the root of the drive
 
 There are 2 possible configurations of the display:
 1. connecting the display to the same WIFI, the OpenMower is connected
-2. connecting the display to the OpenMower's Hotspot (possible if you are using external WIFI USB dongle plugged in the OpenMower's Raspberry Pi with [this](/readme/hotspot.txt.setting) CommitUp configuration of the OpenMower (primary_wifi_device: wlan0)
+2. connecting the display to the OpenMower's Hotspot (possible if you are using external WIFI USB dongle plugged in the OpenMower's Raspberry Pi with [this](/readme/hotspot.txt.settings) CommitUp configuration of the OpenMower (primary_wifi_device: wlan0)
  * Personally I prefer the option 2, as you will avoid WIFI range issues (Rpi Pico W does not have the external WIFI antenna connector). Connecting the display to the RPi HotSpot will ensure the stable connection. Option 1 will work as well if you have a good WIFI coverage over the mowing areas or if you intend to use it as a Remote Control.
    
 Open the following files in the text editor of your choice: `config.py` and `secrets.py`.
