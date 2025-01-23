@@ -4,7 +4,7 @@ Display is using WIFI connection (over router or prefferable directly to OpenMow
 
 ![Demo picture](readme/IMG_7951.JPG)
 
-Inspired by [pico-assistant](https://github.com/Rookeh/pico-assistant/blob/main) project.
+Inspired by this excellent [pico-assistant](https://github.com/Rookeh/pico-assistant/blob/main) project.
  
 # Features
 
