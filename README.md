@@ -1,6 +1,6 @@
 # openmower-display
 Raspberry Pico W based Display/Remote Control for [OpenMower](https://openmower.de) powered mowers.
-Display is connecting over WIFI (to the router or prefferable directly to OpenMower's Hotspot) to establish MQTT connection with OpenMower, to both, read and send MQTT messages.
+Display connects to the OpenMower's MQTT over WIFI (either via router or (prefferable) directly to OpenMower's Hotspot), to both, read and send MQTT messages.
 
 ![Demo picture](readme/IMG_7951.JPG)
 
